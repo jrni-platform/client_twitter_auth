@@ -1,0 +1,19 @@
+{
+  "bbAppManifestVersion":"1.0",
+  "name": "Twitter Integration",
+  "unique_name": "client_twitter_auth",
+  "version": "0.1",
+  "description": "A lightwight Twitter OAuth integration for clients",
+  "author": "BookingBug",
+  "licence": "GPL",
+  "tags": "client twitter auth oauth",
+  "config": true,
+  "panels": [ "twitter_panel" ],
+  "objects": [
+  ],
+  "script_packs": [
+    "twitter_scripts"
+  ],
+  "liquid": [
+  ]
+}
